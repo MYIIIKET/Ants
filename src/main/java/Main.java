@@ -1,6 +1,3 @@
-import engine.GeneticEngine;
-import example.LetterGene;
-
 import java.util.Random;
 
 public class Main {
